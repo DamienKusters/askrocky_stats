@@ -3,7 +3,7 @@
 ### Documentation
 Requirements:
 - Latest version of Python
-- Locally hosted MongoDB on port 27017. (Docker recomended)
+- Locally hosted MongoDB on port 27017. (Docker recommended)
 - Credentials from the Para backend. (https://paraio.com)
     - application access key
     - application secret
