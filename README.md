@@ -7,7 +7,7 @@ Requirements:
 - Credentials from the Para backend. (https://paraio.com)
     - application access key
     - application secret
-- MongoDB Database Tools (used for Mongomport) (https://www.mongodb.com/docs/database-tools/mongoimport/)
+- MongoDB Database Tools (used for Mongoimport) (https://www.mongodb.com/docs/database-tools/mongoimport/)
 
 Steps to run it yourself:
 1. Install packages `'matplotlib'`, `'pymongo'`, `'requests'` and `'requests_auth_aws_sigv4'` with Pip
